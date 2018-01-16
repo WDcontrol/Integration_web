@@ -95,7 +95,8 @@ body {
     width: 182px;
     height: 73px;
     margin-right: 8px;
-    background: #e74c3c;
+    background-image: url(../images/fond%20calls.png);
+    ;
 }
 
 #call2 {
@@ -103,14 +104,16 @@ body {
     width: 182px;
     height: 73px;
     margin-right: 8px;
-    background: #e74c3c;
+    background-image: url(../images/fond%20calls.png);
+    ;
 }
 
 #call3 {
     float: left;
     width: 182px;
     height: 73px;
-    background: #e74c3c;
+    background-image: url(../images/fond%20calls.png);
+    ;
 }
 
 #sidebar {
@@ -236,6 +239,7 @@ p {
     line-height: 1.2;
     text-align: left;
 }
+
 .texte2 {
     padding-top: 10px;
     padding-right: 400px;
@@ -247,4 +251,33 @@ p {
     text-align: left;
 }
 
+.titlecalls {
+    padding-top: 10px;
+    padding-left: 10px;
+    position: absolute;
+    text-align: left;
+    font-family: "Arial";
+    font-size: 12px;
+    color: white;
+}
 
+.calls {
+    padding-top: 25px;
+    font-size: 12px;
+    font-family: "Arial";
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 130px;
+    color: white;
+}
+
+.flecheliencalls {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    padding-left:140px;
+    padding-top: 45px;
+}
