@@ -24,6 +24,11 @@ body {
     background: url('../images/logo_img.jpg') left top no-repeat #0c0c0c;
 }
 
+.searchbar {
+    padding-left: 900px;
+    padding-top: 50px;
+}
+
 #menunav {
     margin: 0 auto;
     width: 100%;
@@ -44,7 +49,6 @@ body {
     position: relative;
     margin: 0 auto;
     width: 925px;
-    margin-top: 11px;
     margin-bottom: 50px;
 }
 
@@ -69,9 +73,8 @@ body {
     height: 41px;
     background: url('../images/label.png') left top no-repeat;
     position: absolute;
-    ;
-    margin-top: -10px;
-    margin-left: -2px;
+    margin-top: -6px;
+    margin-left: -1px;
     font-size: 16px;
     font-family: "Myriad Pro";
     color: rgb(255, 255, 255);
@@ -113,7 +116,6 @@ body {
     width: 182px;
     height: 73px;
     background-image: url(../images/fond%20calls.png);
-    ;
 }
 
 #sidebar {
@@ -141,7 +143,7 @@ body {
 #footer {
     height: 68px;
     margin-top: 23px;
-    background: #E74C3C;
+    background-image: url(../images/forme_footer.png);
 }
 
 .clear {
@@ -278,6 +280,45 @@ p {
     position: absolute;
     width: 15px;
     height: 15px;
-    padding-left:140px;
+    padding-left: 140px;
     padding-top: 45px;
+}
+
+.textecopyright {
+    position: absolute;
+    padding-top: 25px;
+    padding-left: 25px;
+    font-size: 11px;
+    font-family: "Arial";
+    color: rgb(171, 171, 171);
+    line-height: 1.2;
+    text-align: left;
+    text-shadow: 0px 1px 0px rgba(0, 1, 1, 0.75);
+    -ms-transform: matrix( 0.99972958355868, 0, 0, 1, 0, 0);
+    position: absolute;
+    width:200px;
+}
+
+.guitarelec{
+    font-weight: bold;    
+    color:white;
+}
+
+#logos {
+    position: absolute;
+    padding-left: 250px;
+    padding-top: 16px;
+}
+
+.logo1{
+    padding-left:;
+    position:absolute;
+}
+.logo2{
+    padding-left:32px;
+    position:absolute;
+}
+.logo3{
+    padding-left:64px;
+    position:absolute;
 }
