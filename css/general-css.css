@@ -25,8 +25,11 @@ body {
 }
 
 .searchbar {
+
     padding-left: 900px;
+
     padding-top: 50px;
+
 }
 
 #menunav {
@@ -299,10 +302,22 @@ p {
     width:200px;
 }
 
+.end{
+	text-align:right;
+	position: absolute;
+	font-size:11px;
+	font-family: Arial;
+	color: #ffffff;
+    padding: 23px;
+    padding-left: 590px;
+}
+
+
 .guitarelec{
     font-weight: bold;    
     color:white;
 }
+
 
 #logos {
     position: absolute;
@@ -310,14 +325,17 @@ p {
     padding-top: 16px;
 }
 
+
 .logo1{
     padding-left:;
     position:absolute;
 }
+
 .logo2{
     padding-left:32px;
     position:absolute;
 }
+
 .logo3{
     padding-left:64px;
     position:absolute;
