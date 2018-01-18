@@ -25,10 +25,8 @@ body {
 }
 
 .searchbar {
-
     padding-left: 900px;
-
-    padding-top: 50px;
+  padding-top: 50px;
 
 }
 
@@ -102,7 +100,7 @@ body {
     height: 73px;
     margin-right: 8px;
     background-image: url(../images/fond%20calls.png);
-    ;
+    
 }
 
 #call2 {
@@ -111,7 +109,7 @@ body {
     height: 73px;
     margin-right: 8px;
     background-image: url(../images/fond%20calls.png);
-    ;
+    
 }
 
 #call3 {
